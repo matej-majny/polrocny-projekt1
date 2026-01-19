@@ -1,0 +1,21 @@
+.bigflexbox {
+    display: flex;
+    border-radius: 45px;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 80px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+
+.listdiv1 {
+    background-color: #333;
+    max-width: 1000px;
+    border-radius: 25px;
+    padding: 35px 35px;
+    margin: 45px 25px;
+    color: white;
+}

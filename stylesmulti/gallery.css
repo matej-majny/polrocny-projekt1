@@ -1,0 +1,36 @@
+h1 {
+    color: lightgray;
+}
+
+.music-flex {
+  display: flex;
+  background-color: #333;
+  border-radius: 45px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 20px;
+  margin-bottom: 80px;
+}
+
+
+figure {
+  margin: 35px;
+  text-align: center;
+  max-width: 200px;
+}
+
+.cover {
+  width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
+
+figure img:hover {
+  filter: brightness(50%);
+}
+
+figcaption {
+  margin-top: 10px;
+  font-size: 14px;
+  color: white;
+}

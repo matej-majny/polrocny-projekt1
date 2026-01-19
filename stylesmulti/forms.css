@@ -1,0 +1,23 @@
+.formdiv1 {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formelement {
+    margin: 20px 20px;
+    padding: 20px 20px;
+    border-radius: 25px;
+    color: white;
+    background-color: #333;
+    max-width: fit-content;
+    min-width: 300px;;
+}
+
+.heading1 {
+    margin: 20px 20px;
+    color: white;
+}
+
